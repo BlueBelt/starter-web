@@ -7,3 +7,7 @@ Added line for rebase test which some extra changes
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Stashing
+
+A multi stash example
